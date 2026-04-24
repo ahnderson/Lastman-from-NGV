@@ -1,5 +1,3 @@
-***
-
 ````markdown
 # 🧪 Winning Tech Agent (v0.62)
 
