@@ -1,4 +1,3 @@
-````markdown
 # 🧪 Winning Tech Agent (v0.62)
 
 **Intent‑aware Technology Scouting & Evaluation Agent**  
